@@ -1,0 +1,1 @@
+This repository contains a TypeScript function designed to compare two arrays of numbers. The function initially contains a subtle bug related to handling arrays of different lengths.  The bug is described in the `bug.ts` file and a corrected version is provided in `bugSolution.ts`. The README provides a detailed explanation of the bug and its solution.
